@@ -1,9 +1,60 @@
-*{
+* {
   margin: 0;
   padding: 0;
+  font-family: 'Work Sans', sans-serif;
 }
 
-.banner-img{
-  width: 100vw;
+/* header-section */
+
+.header-section {
+  position: relative;
+}
+
+.banner-img {
+  width: 100%;
   height: auto;
+}
+
+/* header texts */
+
+.header-txt {
+  width: 50%;
+  position: absolute;
+  top: 25%;
+  right: 0;
+  text-align: end;
+  margin-right: 30px;
+  font-weight: 700;
+  font-size: 65px;
+  line-height: 76px;
+  color: #ffffff;
+}
+
+/* head-text */
+
+.head-text{
+  font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+padding-bottom: 24px;
+}
+
+.contract-btn {
+  background-color: #ffffff;
+  color: #005FAC;
+  border: none;
+  outline: none;
+  padding: 15px 15px;
+  border-radius: 5px;
+  
+}
+
+.middle-section{
+  display: flex;
+}
+
+/* last-section-img */
+
+.last-section-img{
+  text-align: center;
 }
