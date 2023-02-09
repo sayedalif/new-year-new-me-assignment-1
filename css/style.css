@@ -165,6 +165,7 @@
 /* contract-btn */
 
 .contract-btn {
+  cursor: pointer;
   margin-top: 25px;
 }
 
