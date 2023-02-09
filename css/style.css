@@ -124,3 +124,40 @@
   text-align: center;
   color: #737272;
 }
+
+/* banner-section */
+
+.banner-section {
+  position: relative;
+}
+
+.image {
+  text-align: center;
+}
+
+.banner-txt {
+  position: absolute;
+  top: 35%;
+  left: 25%;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+
+  color: #ffffff;
+}
+
+/* banner--head-txt */
+
+.banner--head-txt {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+
+  color: #ffffff;
+}
+
+/* contract-btn */
+
+.contract-btn{
+  margin-top: 25px;
+}
