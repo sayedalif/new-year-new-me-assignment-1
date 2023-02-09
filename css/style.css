@@ -183,7 +183,7 @@
 .habit-track{
   text-align: center;
   background: rgb(2,0,36);
-  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(53,53,144,0.7763480392156863) 48%, rgba(0,212,255,1) 100%);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(53,53,144,0.7763480392156863) 48%, rgba(0,212,255,1) 80%);
   width: 1140px;
   height: 300px;
   background-size: cover;
