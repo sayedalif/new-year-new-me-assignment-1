@@ -84,7 +84,7 @@
 
 /* last-section */
 
-.last-section{
+.last-section {
   margin-bottom: 200px;
 }
 
@@ -135,10 +135,18 @@
 .banner-section {
   position: relative;
   margin-bottom: 200px;
+  text-align: center;
 }
 
-.image {
-  text-align: center;
+.banner-image {
+  background-image: linear-gradient(90deg, #005fac 0%, rgba(0, 95, 172, 0) 100%),
+    url('../images/watch.png');
+  width: 1140px;
+  height: 300px;
+  background-size: cover;
+  color: white;
+  border-radius: 20px;
+  display: inline-block;
 }
 
 .banner-txt {
@@ -150,6 +158,7 @@
   line-height: 47px;
 
   color: #ffffff;
+  text-align: left; !important
 }
 
 /* banner--head-txt */
