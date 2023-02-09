@@ -158,6 +158,61 @@
 
 /* contract-btn */
 
-.contract-btn{
+.contract-btn {
   margin-top: 25px;
+}
+
+/* footer */
+
+.footer {
+  width: 100%;
+  height: 577px;
+  left: 0px;
+  top: 2651.96px;
+  background: #151414;
+  color: #f8f8f8;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.footer div h1 {
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 53px;
+  padding-bottom: 15px;
+}
+
+.footer div p {
+  line-height: 26px;
+  color: #ffffff;
+  padding-bottom: 24px;
+}
+
+.footer div h3 {
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 29px;
+  padding-bottom: 31px;
+  color: #ffffff;
+}
+
+.subs-btn {
+  background-color: #005fac;
+  color: #ffffff;
+  border: none;
+  outline: none;
+  padding: 15px 15px;
+  border-radius: 5px;
+  margin-top: 16px;
+  cursor: pointer;
+}
+
+input {
+  background-color: #151414;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: 1px solid white;
+  border-radius: 10px;
 }
