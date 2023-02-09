@@ -32,29 +32,56 @@
 
 /* head-text */
 
-.head-text{
+.head-text {
   font-weight: 700;
-font-size: 65px;
-line-height: 76px;
-padding-bottom: 24px;
+  font-size: 65px;
+  line-height: 76px;
+  padding-bottom: 24px;
 }
 
 .contract-btn {
   background-color: #ffffff;
-  color: #005FAC;
+  color: #005fac;
   border: none;
   outline: none;
   padding: 15px 15px;
   border-radius: 5px;
-  
 }
 
-.middle-section{
+.middle-section {
   display: flex;
+  justify-content: space-evenly;
+  align-items: center;
 }
 
+/* mid-head-txt */
+.mid-head-txt {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: #151414;
+  margin-bottom: 24px;
+}
+
+/* mid-head-paragraph */
+
+.mid-head-para {
+  font-size: 16px;
+  line-height: 26px;
+  color: #444343;
+  margin-bottom: 16px;
+}
+
+/* mid-head-plain-txt */
+.mid-head-plain-txt{
+  font-size: 16px;
+line-height: 26px;
+color: #444343;
+margin-bottom: 16px;
+}
 /* last-section-img */
 
-.last-section-img{
+.last-section-img {
   text-align: center;
 }
